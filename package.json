@@ -1,0 +1,11 @@
+{
+
+
+"name": "marketing project",
+"version":"0.0.0"
+
+,
+"dependencies":{
+  "express":"~4.12.4"
+}
+}
